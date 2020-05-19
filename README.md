@@ -1,4 +1,4 @@
-# COMP3359_Project
+# COVID-19 Peak Prediction using Time Series Analysis
 
 ## Manual
 
@@ -7,6 +7,8 @@ Install Anaconda python (3.6+) from https://docs.anaconda.com/anaconda/
 Go to `/ML Folder`
 
 Type command `jupyter notebook` in terminal
+
+3 models implemented:
 
 Access VAR.ipynb for Vector Autoregression model
 
